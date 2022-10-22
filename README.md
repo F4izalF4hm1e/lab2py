@@ -16,8 +16,6 @@ Pembahasan kali ini akan mengulas 4 bagian dalam Python, yaitu :
     **INSTALASI PYTHON**
 
     1 . Akses web resmi Python pada *(python.org)*.
-    ![elsa](https://user-images.githubusercontent.com/115933016/197352052-a838fa95-39b5-4935-a4e9-6410729160f1.jpg)
-
 
     2 . Kemudian klik download pada daftar opsi pilihan di web Python.
 
